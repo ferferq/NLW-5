@@ -1,7 +1,5 @@
 ### LetMeAsk é um projeto para a trilha de React da #NLW 5 - Rocketseat
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=je4npw.visitor-badge)
-
 <p align="center">
   <img alt="Letmeask" src="https://raw.githubusercontent.com/ferferq/NLW-5/fe6bfbd2196558fe26af9df2aa13d2b8762c220c/logo.svg" width="160px">
 </p>
