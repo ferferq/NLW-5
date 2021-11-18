@@ -19,6 +19,11 @@ This project was developed using the following technologies:
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- components
+- hooks
+- context
+- react-modal
+- sass
 
 ---
 
