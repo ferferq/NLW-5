@@ -12,18 +12,15 @@
 
 <br>
 
-## 🧪 Technologies
-
-This project was developed using the following technologies:
+## 🧪 Tecnologias
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- components
-- hooks
-- context
-- react-modal
-- sass
+- Hooks
+- Context
+- React-modal
+- Sass
 
 ---
 
