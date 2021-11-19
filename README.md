@@ -1,5 +1,8 @@
 <p align="center">
-### LetMeAsk é um projeto para a trilha de React da #NLW 5 - Rocketseat
+### LetMeAsk é um projeto da #NLW 5 - Rocketseat - Desenvolvido em ReactJS
+</p>
+<p align="center">
+Uma plataforma para auxiliar streamers em suas lives, podendo destacalas na hora de responder e marcar como respondida. 
 </p>
 
 <p align="center">
